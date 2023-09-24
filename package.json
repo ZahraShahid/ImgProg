@@ -1,0 +1,28 @@
+{
+  "name": "imgprog",
+  "version": "1.0.0",
+  "description": "a specialised image storage and processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zahra Shahid",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.17",
+    "@types/multer": "^1.4.7",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "jest": "^29.7.0",
+    "multer": "^1.4.5-lts.1",
+    "supertest": "^6.3.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.22.15",
+    "@types/jest": "^29.5.5",
+    "@types/supertest": "^2.0.12",
+    "ts-jest": "^29.1.1"
+  }
+}
